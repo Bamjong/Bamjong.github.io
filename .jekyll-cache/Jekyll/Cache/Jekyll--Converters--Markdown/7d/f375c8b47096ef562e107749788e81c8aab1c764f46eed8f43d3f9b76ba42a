@@ -1,0 +1,21 @@
+I"	<h1 id="welcome-to-tailwind-jekyll">Welcome to Tailwind Jekyll!</h1>
+
+<p>This is a <a href="https://vsoch.github.com/tw-jekyll/">starter template</a> for a Tailwind jekyll theme, based
+on <a href="https://github.com/superfly/docs">these docs</a> that are based on <a href="https://tailwindcss.com/docs/installation">Tailwind css</a>,
+however everything has been modified to work on GitHub pages (using Jekyll). If you don’t need
+native deployment on GitHub pages, then please consider checking out Tailwind. 
+The original <a href="https://github.com/vsoch/tw-jekyll/tree/main/LICENSE">Apache License</a> is included.</p>
+
+<h2 id="purpose">Purpose</h2>
+
+<p>GitHub pages uses Jekyll natively, so when I make documentation, I typically
+look for Jekyll templates. Why? Using Jekyll means that I can use markdown,
+and allow for users to easily contribute, and build automatically just by
+way of pushing to a main branch (or general GitHub pages).</p>
+
+<div class="callout">I fell in love with this template as soon as I saw it, and knew that I wanted others to be empowered to use it.</div>
+
+<p>For getting started with development, see the <a href="/docs/getting-started">Getting Started</a>
+ page. Would you like to request a feature or contribute? <a href="/issues">Open an issue</a></p>
+
+:ET
