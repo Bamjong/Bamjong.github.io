@@ -82,16 +82,16 @@ defaults:
       path: "_docs"
       type: "docs"
     values:
-      layout: page
+      layout: null
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: "page"
+      layout: null
   -
     scope:
       path: "posts"
       type: "posts"
     values:
-      layout: "post"
+      layout: null
